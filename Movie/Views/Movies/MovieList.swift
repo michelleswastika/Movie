@@ -73,10 +73,8 @@ struct MovieList: View {
                     }
                 }
             }
-
             Text("Select a Movie")
         }
-//        .focusedValue(\.selectedMovie, $modelData.movies[index ?? 0])
     }
 }
 

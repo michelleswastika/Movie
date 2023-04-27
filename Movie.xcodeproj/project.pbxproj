@@ -185,7 +185,7 @@
 				208B38CD29FA96E100202E78 /* Helpers */,
 				208B38F529FAADEF00202E78 /* Genres */,
 				208B38FE29FAB25600202E78 /* PageView */,
-				208B38CE29FA96EB00202E78 /* Landmarks */,
+				208B390B29FABC5A00202E78 /* Movies */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -198,16 +198,6 @@
 				208B38D729FA9C1B00202E78 /* FavoriteButton.swift */,
 			);
 			path = Helpers;
-			sourceTree = "<group>";
-		};
-		208B38CE29FA96EB00202E78 /* Landmarks */ = {
-			isa = PBXGroup;
-			children = (
-				208B38E929FAA21A00202E78 /* MovieDetail.swift */,
-				208B38F129FAA95000202E78 /* MovieRow.swift */,
-				208B38F329FAA9D800202E78 /* MovieList.swift */,
-			);
-			path = Landmarks;
 			sourceTree = "<group>";
 		};
 		208B38F529FAADEF00202E78 /* Genres */ = {
@@ -229,6 +219,16 @@
 				208B390729FAB4C900202E78 /* PageViewController.swift */,
 			);
 			path = PageView;
+			sourceTree = "<group>";
+		};
+		208B390B29FABC5A00202E78 /* Movies */ = {
+			isa = PBXGroup;
+			children = (
+				208B38E929FAA21A00202E78 /* MovieDetail.swift */,
+				208B38F129FAA95000202E78 /* MovieRow.swift */,
+				208B38F329FAA9D800202E78 /* MovieList.swift */,
+			);
+			path = Movies;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
