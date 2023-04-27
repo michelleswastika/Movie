@@ -14,7 +14,7 @@ struct MovieRow: View {
         HStack {
             movie.coverImage
                 .resizable()
-                .frame(width: 50, height: 50)
+                .frame(width: 50, height: 80)
                 .cornerRadius(3)
             VStack(alignment: .leading) {
                 Text(movie.title)
